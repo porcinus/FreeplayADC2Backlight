@@ -5,7 +5,7 @@ This program is design to update screen backlight using a potentiometer connecte
 - 0.1a : Initial release, PreAlpha stage.
 
 # Provided scripts :
-- compile.sh : Compile cpp file (run this first), require libi2c-dev.
+- compile.sh : Compile cpp file (run this first).
 - install.sh : Install service (need restart).
 - remove.sh : Remove service.
 
