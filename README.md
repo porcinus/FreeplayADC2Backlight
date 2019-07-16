@@ -1,5 +1,5 @@
 # FreeplayADC2Backlight
-This program is design to update screen backlight using a potentiometer connected to a MCP3021A ADC. 
+This program is design to update screen backlight using a potentiometer connected to a MCP3021A ADC. It does require setPCA9633 [https://github.com/TheFlav/setPCA9633]
 
 # History
 - 0.1a : Initial release, PreAlpha stage.
